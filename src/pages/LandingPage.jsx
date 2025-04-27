@@ -1,6 +1,9 @@
 
 import React, { useEffect } from 'react';
-import './pageCss/landingPage.css';
+
+
+
+import './pageCss/LandingPage.css';
 
 
 
